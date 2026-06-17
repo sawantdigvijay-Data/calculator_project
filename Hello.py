@@ -1,6 +1,8 @@
 print("Once Again Hello World")
 print("Welcome to the world of Python programming.")
 print("This is a simple calculator program.")
+print("changes in new branch1")
+print("changes in new branch2 local")
 print("added in middle from github")
 print("changes in new branch1")
 print("Added from github")
