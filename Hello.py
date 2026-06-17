@@ -1,3 +1,4 @@
+print("conflict line")
 print("Once Again Hello World")
 print("changes in new branch2 local")
 print("Welcome to the world of Python programming.")
